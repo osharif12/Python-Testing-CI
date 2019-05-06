@@ -1,4 +1,5 @@
 # python3 -m unittest testingSuite.TestAddition
+# python3 -m unittest testingSuite.py
 
 import unittest
 from utilFunctions import *
