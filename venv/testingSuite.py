@@ -12,6 +12,7 @@ class TestAddition(unittest.TestCase):
 
     def test_addition(self):
         value = self.ds.add_numbers(198, 2)
+        print('Values being added are 198 and 2')
 
         assert value == 200
 
